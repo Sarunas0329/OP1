@@ -1,0 +1,38 @@
+Pradine knygyno lentele
+---------------------------------------------------------------------
+    Platintojas          Pavadinimas        Kiekis           Kaina
+| Versmė          | Versmės keliai       |         10 |      $8.90  |
+| Versmė          | Versmės šunkeliai    |         20 |      $7.90  |
+| Versmė          | Versmės keliai       |          1 |     $10.90  |
+| Eglė            | Eglės keliai         |         11 |      $9.90  |
+| Eglė            | Eglės šunkeliai      |         11 |      $8.90  |
+| Eglė            | Eglės keliukai       |         10 |      $8.90  |
+| Eglė            | Eglės takai          |         10 |      $9.90  |
+---------------------------------------------------------------------
+Pradine knygu pardavimo lentele
+---------------------------------------------
+    Pavadinimas     Kiekis           Kaina 
+| Versmės keliai  |          1 |      $0.00 |
+| Versmės keliai  |          1 |      $0.00 |
+| Eglės keliai    |          1 |      $0.00 |
+| Eglės šunkeliai |          1 |      $0.00 |
+---------------------------------------------
+Papildyta knygu pardavimo lentele
+---------------------------------------------
+    Pavadinimas     Kiekis           Kaina 
+| Versmės keliai  |          1 |     $10.90 |
+| Versmės keliai  |          1 |      $8.90 |
+| Eglės keliai    |          1 |      $9.90 |
+| Eglės šunkeliai |          1 |      $8.90 |
+---------------------------------------------
+Pradine knygyno lentele
+---------------------------------------------------------------------
+    Platintojas          Pavadinimas        Kiekis           Kaina
+| Versmė          | Versmės keliai       |          9 |      $8.90  |
+| Versmė          | Versmės šunkeliai    |         20 |      $7.90  |
+| Versmė          | Versmės keliai       |          0 |     $10.90  |
+| Eglė            | Eglės keliai         |         10 |      $9.90  |
+| Eglė            | Eglės šunkeliai      |         10 |      $8.90  |
+| Eglė            | Eglės keliukai       |         10 |      $8.90  |
+| Eglė            | Eglės takai          |         10 |      $9.90  |
+---------------------------------------------------------------------

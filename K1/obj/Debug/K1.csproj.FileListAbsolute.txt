@@ -1,0 +1,8 @@
+C:\Users\Sarun\Desktop\Ktu\OP\K1\K1\K1\bin\Debug\K1.exe.config
+C:\Users\Sarun\Desktop\Ktu\OP\K1\K1\K1\bin\Debug\K1.exe
+C:\Users\Sarun\Desktop\Ktu\OP\K1\K1\K1\bin\Debug\K1.pdb
+C:\Users\Sarun\Desktop\Ktu\OP\K1\K1\K1\obj\Debug\K1.csproj.AssemblyReference.cache
+C:\Users\Sarun\Desktop\Ktu\OP\K1\K1\K1\obj\Debug\K1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sarun\Desktop\Ktu\OP\K1\K1\K1\obj\Debug\K1.csproj.CoreCompileInputs.cache
+C:\Users\Sarun\Desktop\Ktu\OP\K1\K1\K1\obj\Debug\K1.exe
+C:\Users\Sarun\Desktop\Ktu\OP\K1\K1\K1\obj\Debug\K1.pdb

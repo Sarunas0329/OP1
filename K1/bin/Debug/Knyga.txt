@@ -1,0 +1,7 @@
+Versmė;Versmės keliai; 10; 8.90
+Versmė;Versmės šunkeliai; 20; 7.90
+Versmė;Versmės keliai; 1; 10.90
+Eglė;Eglės keliai; 11; 9.90
+Eglė;Eglės šunkeliai; 11; 8.90
+Eglė;Eglės keliukai; 10; 8.90
+Eglė;Eglės takai; 10; 9.90
