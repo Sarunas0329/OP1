@@ -1,0 +1,16 @@
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.csproj.AssemblyReference.cache
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.csproj.CoreCompileInputs.cache
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\bin\Debug\U2-19.exe.config
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\bin\Debug\U2-19.exe
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\bin\Debug\U2-19.pdb
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.exe
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.pdb
+C:\Users\Sarun\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\bin\Debug\U2-19.exe.config
+C:\Users\Sarun\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\bin\Debug\U2-19.exe
+C:\Users\Sarun\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\bin\Debug\U2-19.pdb
+C:\Users\Sarun\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.csproj.AssemblyReference.cache
+C:\Users\Sarun\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sarun\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.csproj.CoreCompileInputs.cache
+C:\Users\Sarun\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.exe
+C:\Users\Sarun\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U2-19\U2-19\obj\Debug\U2-19.pdb
