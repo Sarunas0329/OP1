@@ -1,0 +1,16 @@
+C:\Users\Sarun\Desktop\Ktu\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\bin\Debug\U3-19.exe.config
+C:\Users\Sarun\Desktop\Ktu\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\bin\Debug\U3-19.exe
+C:\Users\Sarun\Desktop\Ktu\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\bin\Debug\U3-19.pdb
+C:\Users\Sarun\Desktop\Ktu\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.csproj.AssemblyReference.cache
+C:\Users\Sarun\Desktop\Ktu\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sarun\Desktop\Ktu\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.csproj.CoreCompileInputs.cache
+C:\Users\Sarun\Desktop\Ktu\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.exe
+C:\Users\Sarun\Desktop\Ktu\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.pdb
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.csproj.AssemblyReference.cache
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.csproj.CoreCompileInputs.cache
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.exe
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\obj\Debug\U3-19.pdb
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\bin\Debug\U3-19.exe.config
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\bin\Debug\U3-19.exe
+C:\Users\sarbut\OneDrive - Kaunas University of Technology\Laborotoriniu uzduotys\Laboru uzd\U3-19\U3-19\bin\Debug\U3-19.pdb

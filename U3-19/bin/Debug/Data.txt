@@ -1,0 +1,28 @@
+| Round 1 2022-07-01
+|          Vardas |         Pavarde |    Komanda |   Pozicija |       Cempionas |    Sunaikinimai |     Dalyvavimai |
+--------------------------------------------------------------------------------------------------------------------
+| Lukas           | Lukaitis        | Blue       | Bot        | Senna           |               3 |               4 | 
+| Kipras          | Kipraitis       | Blue       | Mid        | Neeko           |               2 |               1 | 
+| Petras          | Petraitis       | Red        | Mid        | Lissandra       |               0 |               4 | 
+| Jokubas         | Jokubaitis      | Red        | Bot        | Ahri            |               3 |               7 | 
+| Juozas          | Simonaitis      | Blue       | Support    | Lux             |               2 |               3 | 
+| Armandas        | Armanavicius    | Red        | Support    | Senna           |               4 |               5 | 
+| Matas           | Mataitis        | Blue       | Top        | Ashe            |               9 |               5 | 
+| Simas           | Simaitis        | Blue       | Jungle     | Nocturne        |               1 |               3 | 
+| Gytis           | Lukaitis        | Red        | Jungle     | Kindred         |               7 |               1 | 
+| Tautvydas       | Tautis          | Red        | Top        | Nasus           |               7 |               4 | 
+--------------------------------------------------------------------------------------------------------------------
+| Round 2 2022-01-05
+|          Vardas |         Pavarde |    Komanda |   Pozicija |       Cempionas |    Sunaikinimai |     Dalyvavimai |
+--------------------------------------------------------------------------------------------------------------------
+| Kipras          | Lukaitis        | Red        | Jungle     | Talon           |               2 |               5 | 
+| Matas           | Mataitis        | Red        | Support    | Lulu            |               0 |               6 | 
+| Armandas        | Armanavicius    | Blue       | Jungle     | Nocturne        |               7 |               0 | 
+| Simas           | Simaitis        | Red        | Mid        | Yasuo           |               3 |               7 | 
+| Kajus           | Kajuss          | Blue       | Bot        | Jinx            |               5 |               3 | 
+| Jokubas         | Jokubaitis      | Blue       | Mid        | Vayne           |               2 |               7 | 
+| Karolis         | Karolis         | Red        | Bot        | Jhin            |               6 |               2 | 
+| Tautvydas       | Tautis          | Blue       | Top        | Darius          |               6 |               6 | 
+| Juozas          | Simonaitis      | Red        | Top        | Nasus           |               2 |               0 | 
+| Petras          | Petraitis       | Blue       | Support    | Veigar          |              11 |               6 | 
+--------------------------------------------------------------------------------------------------------------------
