@@ -1,8 +1,0 @@
-C:\Users\Sarun\Desktop\Ktu\OP\K2\Kontrolinis\Kontrolinis\bin\Debug\Kontrolinis.exe.config
-C:\Users\Sarun\Desktop\Ktu\OP\K2\Kontrolinis\Kontrolinis\bin\Debug\Kontrolinis.exe
-C:\Users\Sarun\Desktop\Ktu\OP\K2\Kontrolinis\Kontrolinis\bin\Debug\Kontrolinis.pdb
-C:\Users\Sarun\Desktop\Ktu\OP\K2\Kontrolinis\Kontrolinis\obj\Debug\Kontrolinis.csproj.AssemblyReference.cache
-C:\Users\Sarun\Desktop\Ktu\OP\K2\Kontrolinis\Kontrolinis\obj\Debug\Kontrolinis.csproj.SuggestedBindingRedirects.cache
-C:\Users\Sarun\Desktop\Ktu\OP\K2\Kontrolinis\Kontrolinis\obj\Debug\Kontrolinis.csproj.CoreCompileInputs.cache
-C:\Users\Sarun\Desktop\Ktu\OP\K2\Kontrolinis\Kontrolinis\obj\Debug\Kontrolinis.exe
-C:\Users\Sarun\Desktop\Ktu\OP\K2\Kontrolinis\Kontrolinis\obj\Debug\Kontrolinis.pdb
