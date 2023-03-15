@@ -1,0 +1,40 @@
+| Round 1 2022-07-01 |
+| Vardas          | Pavarde         | Komanda           | Pozicija   | Cempionas       | Nuzudymai  | Dalyvavimai  | Mirtys     | Megstamiausias ginklas | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Lukas           | Lukaitis        | HoodCertified     | Bot        | Senna           |          3 |            3 |          4 | No Data                | 
+| Kipras          | Kipraitis       | HoodCertified     | Mid        | Neeko           |          2 |            4 |          1 | No Data                | 
+| Petras          | Petraitis       | FreshArabic       | Mid        | Lissandra       |          0 |            7 |          4 | No Data                | 
+| Jokubas         | Jokubaitis      | FreshArabic       | Bot        | Ahri            |          3 |            0 |          7 | No Data                | 
+| Juozas          | Simonaitis      | HoodCertified     | Support    | Lux             |          2 |            2 |          3 | No Data                | 
+| Armandas        | Armanavicius    | FreshArabic       | Support    | Senna           |          4 |            1 |          5 | No Data                | 
+| Armandas        | Poska           | Juodi_Agurkai     | No Data    | No Data         |         23 | No Data      |         23 | M427                   | 
+| Maumedis        | Lapas           | Zali_Pirstai      | No Data    | No Data         |          0 | No Data      |         12 | Glock-18               | 
+| Audre           | Kastonas        | Zali_Pirstai      | No Data    | No Data         |          0 | No Data      |         12 | Glock-18               | 
+| Marijus         | Cesnakas        | Juodi_Agurkai     | No Data    | No Data         |          1 | No Data      |          1 | Scout                  | 
+| Saulius         | Krusa           | Juodi_Agurkai     | No Data    | No Data         |          0 | No Data      |         53 | Glock-18               | 
+| Kasparas        | Klijai          | Zali_Pirstai      | No Data    | No Data         |         67 | No Data      |          3 | Nova                   | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Round 2 2022-01-05 |
+| Vardas          | Pavarde         | Komanda           | Pozicija   | Cempionas       | Nuzudymai  | Dalyvavimai  | Mirtys     | Megstamiausias ginklas | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Kipras          | Lukaitis        | TrashcanPaul      | Jungle     | Talon           |          2 |            2 |          5 | No Data                | 
+| Matas           | Mataitis        | TrashcanPaul      | Support    | Lulu            |          0 |            4 |          6 | No Data                | 
+| Armandas        | Armanavicius    | BestMemes         | Jungle     | Nocturne        |          7 |            3 |          0 | No Data                | 
+| Simas           | Simaitis        | TrashcanPaul      | Mid        | Yasuo           |          3 |            1 |          7 | No Data                | 
+| Kajus           | Kajuss          | BestMemes         | Bot        | Jinx            |          5 |            3 |          3 | No Data                | 
+| Jokubas         | Jokubaitis      | BestMemes         | Mid        | Vayne           |          2 |            6 |          7 | No Data                | 
+| Matas           | Mangruda        | Geltoni_Gaidziai  | No Data    | No Data         |         12 | No Data      |          2 | AWP                    | 
+| Juozas          | Kazukauskas     | Ryzi_Banditai     | No Data    | No Data         |         34 | No Data      |         18 | AK-47                  | 
+| Pitas           | Bulis           | Geltoni_Gaidziai  | No Data    | No Data         |          0 | No Data      |         28 | XM1014                 | 
+| Kanas           | Ye              | Ryzi_Banditai     | No Data    | No Data         |         -1 | No Data      |         13 | Duelies                | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Round 3 2022-07-01 |
+| Vardas          | Pavarde         | Komanda           | Pozicija   | Cempionas       | Nuzudymai  | Dalyvavimai  | Mirtys     | Megstamiausias ginklas | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Lukas           | Lukaitis        | ClashOfClans      | Bot        | Senna           |          3 |            3 |          4 | No Data                | 
+| Kipras          | Kipraitis       | ClashOfClans      | Mid        | Neeko           |          2 |            4 |          1 | No Data                | 
+| Petras          | Petraitis       | SnekoriuBambalys  | Mid        | Lissandra       |          0 |            1 |          4 | No Data                | 
+| Jokubas         | Jokubaitis      | SnekoriuBambalys  | Bot        | Ahri            |          3 |            9 |          7 | No Data                | 
+| Saulius         | Prusaitis       | Melynas_Stalcius  | No Data    | No Data         |         24 | No Data      |          0 | SG-553                 | 
+| Vitalija        | Katunskyte      | Dideli_Kokosai    | No Data    | No Data         |         66 | No Data      |          1 | Glock-18               | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------

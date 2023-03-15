@@ -1,0 +1,16 @@
+| Longest Word         | Repetitions  |
+--------------------------------------
+| 1                    |            1 |
+| 2                    |            1 |
+| 5                    |            1 |
+| 6                    |            1 |
+| 8                    |            1 |
+| 9                    |            1 |
+| a                    |            1 |
+--------------------------------------
+Ilgiausias teksto fragmentas
+--------------------------------------
+
+The line position of the first file is -1
+The line position of the secont file is -1
+--------------------------------------
